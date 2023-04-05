@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a07f192a81ed81e4e88c7f484f316ec4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pigModel: {fileID: 919132149155446097, guid: 1434bbedfbd3f8547b3335ad6b8a832c, type: 3}
+  - tileModel: {fileID: 919132149155446097, guid: 8582e99b114bee9458d0997ba0c22adf, type: 3}
+  - towerModel: {fileID: 919132149155446097, guid: 76cf32da9d08e784ca2889813ec5c4c4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
